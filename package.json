@@ -1,0 +1,28 @@
+{
+  "name": "werner-template-repo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A template for creating new repositories in the @wernerdevops organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WernerDevOps/werner-template-repo.git"
+  },
+  "keywords": [
+    "wernerdevops",
+    "werner",
+    "template",
+    "docs"
+  ],
+  "author": "Branden Miller",
+  "bugs": {
+    "url": "https://github.com/WernerDevOps/werner-template-repo/issues"
+  },
+  "homepage": "https://github.com/WernerDevOps/werner-template-repo#readme",
+  "devDependencies": {
+    "@wernerdevops/dev-toolkit": "^1.0.1"
+  }
+}

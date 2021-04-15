@@ -1,0 +1,14 @@
+{
+    "branchwarnings.protectedBranches": [
+        "master",
+        "main"
+    ],
+    "git.autofetch": true,
+    "projectManager.git.baseFolders": [
+        "C:\\Development"
+    ],
+    "projectManager.svn.baseFolders": [
+        "C:\\Development"
+    ],
+    "svn.defaultCheckoutDirectory": "C:\\Development"
+}

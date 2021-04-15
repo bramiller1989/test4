@@ -1,0 +1,4 @@
+{
+    "pattern": "(AB#\\d+-)",
+    "errorMsg": "\nBranch name validation failed please rename your current branch, prepending your Azure workitem #. \n AB#1234-your-branch-name"
+}
