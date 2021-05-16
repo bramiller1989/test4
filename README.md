@@ -69,3 +69,4 @@ Go through this checklist after creating your repository. It should only take a 
 ### Examples
 - [ ] Is there an example folder with usage examples?
 - [ ] For the browser as well?
+
